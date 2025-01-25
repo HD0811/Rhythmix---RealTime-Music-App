@@ -43,11 +43,13 @@ Chat Feature (After LogIn)
 📋 Usage
 
  Sign in using your Google account.
+ 
  Browse and play music from the library.
+ 
  Use the chat feature to communicate with other users in real-time.
+ 
  Upload images to personalize your profile.
 
-🖼 Screenshots
 
 
 
