@@ -35,7 +35,9 @@ Chat Feature (After LogIn)
 🛠 Tech Stack
 
  Frontend: React, TypeScript, TailwindCSS, Clerk (Google OAuth).
+ 
  Backend: Node.js, Express.js, MongoDB, Socket.IO.
+ 
  Others: Cloudinary (Image Uploads), Render (For Deployment)
 
 📋 Usage
