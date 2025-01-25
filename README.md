@@ -1,5 +1,12 @@
 Deployed on Render: https://rhythmix-realtime-music.onrender.com/
 
+Home Page
+![image](https://github.com/user-attachments/assets/4f26d1cf-0784-4031-8c84-aae85a8f69ff)
+
+Chat Feature (After LogIn)
+![image](https://github.com/user-attachments/assets/3c92907a-5d8f-4c17-9dec-db21a7806b53)
+
+
 🎵 Music Streaming App with Real-Time Chat
 
  A full-featured music streaming application built with the MERN stack, featuring real-time chat functionality, Google OAuth login, and image uploading.
